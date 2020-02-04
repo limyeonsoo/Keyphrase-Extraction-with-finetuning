@@ -1,0 +1,1 @@
+towards automating regression test selection for web services this paper reports a safe regression test selection ( rts ) approach that is designed for verifying web services in an end-to-end manner . the safe rts technique has been integrated into a systematic method that monitors distributed code modifications and automates the rts and rt processes . 

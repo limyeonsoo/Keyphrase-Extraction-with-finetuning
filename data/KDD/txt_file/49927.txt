@@ -1,0 +1,1 @@
+compressed data cubes for olap aggregate query approximation on continuous dimensions

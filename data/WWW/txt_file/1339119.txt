@@ -1,0 +1,1 @@
+resource management for scalable disconnected access to web services 

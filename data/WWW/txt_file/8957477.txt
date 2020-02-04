@@ -1,0 +1,1 @@
+wcag formalization with w3c standards web accessibility consists on a set of checkpoints which are rather expensive to evaluate or to spot . however , using w3c technologies , this cost can be clearly minimized . this article presents a w3c formalized rule-set version for automatable checkpoints from wcag 1.0 . 

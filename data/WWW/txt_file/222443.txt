@@ -1,0 +1,1 @@
+function-based object model towards website adaptation 

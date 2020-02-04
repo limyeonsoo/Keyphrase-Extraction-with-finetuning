@@ -1,0 +1,1 @@
+hubble : an advanced dynamic folder system for xml organizing large document collections for finding information easily and quickly has always been an important user requirement . this paper describes a flexible and powerful dynamic folder technology , called hubble , which exploits xml semantics to precisely categorize xml documents into categories or folders . 

@@ -1,0 +1,1 @@
+using association rules for product assortment decisions : a case study

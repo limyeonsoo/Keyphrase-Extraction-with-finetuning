@@ -1,0 +1,1 @@
+distributed community crawling the massive distribution of the crawling task can lead to inefficient exploration of the same portion of the web . we propose a technique to guide crawlers exploration based on the notion of web communities . thest ability properties of the method can be used as an implicit coordination mechanism to increase the efficiency of the crawling task . 

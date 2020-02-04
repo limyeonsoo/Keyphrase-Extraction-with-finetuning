@@ -1,0 +1,1 @@
+a decentralized cf approach based on cooperative agents in this paper , we propose a decentralized collaborative filtering ( cf ) approach based on p2p overlay network for the autonomous agents ' environment . experiments show that our approach is more scalable than traditional centralized cf filtering systems and alleviates the sparsity problem in distributed cf. 

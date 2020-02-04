@@ -1,0 +1,1 @@
+liteminutes : an internet-based system for multimedia meeting minutes 

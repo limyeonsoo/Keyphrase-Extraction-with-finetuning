@@ -1,0 +1,1 @@
+mining asynchronous periodic patterns in time series data

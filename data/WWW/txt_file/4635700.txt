@@ -1,0 +1,1 @@
+information flow using edge stress factor this paper shows how a corpus of instant messages can be employed to detect de facto communities of practice automatically . a novel algorithm based on the concept of edge stress factor is proposed and validated . results show that this approach is fast and effective in studying collaborative behavior . 

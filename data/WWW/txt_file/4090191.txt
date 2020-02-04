@@ -1,0 +1,1 @@
+spam attacks : p2p to the rescue we propose a decentralized privacy-preserving approach to spam filtering . our solution exploits robust digests to identify messages that are a slight variation of one another and a peer-to-peer architecture between mail servers to collaboratively share knowledge about spam . 

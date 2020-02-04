@@ -1,0 +1,1 @@
+clustering e-commerce search engines in this paper , we sketch a method for clustering e-commerce search engines by the type of products\/services they sell . this method utilizes the special features of interface pages of such search engines . we also provide an analysis of different types of ese interface pages . 

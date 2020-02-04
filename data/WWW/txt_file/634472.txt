@@ -1,0 +1,1 @@
+owl fa : a metamodeling extension of owl d this paper proposes owl fa , a decidable extension of owl dl with the metamodeling architecture of rdfs ( fa ) . it shows that the knowledge base satisfiability problem of owl fa can be reduced to that of owl dl , and compares the fa semantics with the recently proposed contextual semantics and hilog semantics for owl . 

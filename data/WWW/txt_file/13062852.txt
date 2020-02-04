@@ -1,0 +1,1 @@
+extracting events and event descriptions from twitter this paper describes methods for automatically detecting events involving known entities from twitter and understanding both the events as well as the audience reaction to them . we show that nlp techniques can be used to extract events , their main actors and the audience reactions with encouraging results . 

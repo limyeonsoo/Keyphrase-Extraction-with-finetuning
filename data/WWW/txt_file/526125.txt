@@ -1,0 +1,1 @@
+combining rdf and xml schemas to enhance interoperability between metadata application profiles 

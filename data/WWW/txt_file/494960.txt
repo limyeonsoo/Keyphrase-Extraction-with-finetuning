@@ -1,0 +1,1 @@
+the anatomy of a news search engine today , news browsing and searching is one of the most important internet activity . this paper introduces a general framework to build a news search engine by describing velthune , an academic news search engine available on line . 

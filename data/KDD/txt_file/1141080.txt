@@ -1,0 +1,1 @@
+the igrid index : reversing the dimensionality curse for similarity indexing in high dimensional space

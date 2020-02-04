@@ -1,0 +1,1 @@
+web page ranking using link attributes we present a variant of pagerank , wlrank , that considers different web page attributes to give more weight to some links . our evaluation shows that the precision of the answers can improve significantly . 
