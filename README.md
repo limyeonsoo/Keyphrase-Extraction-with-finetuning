@@ -1,7 +1,7 @@
 # Keyphrase-Extraction-with-finetuning
 Using BERT Finetuning, Keyphrase Extraction in KDD,WWW and Inspec
 
-Paper : Decision in Process
+Paper : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09410951&language=ko_KR
 
 <div>
   <img height="400" src="https://user-images.githubusercontent.com/42796949/81039197-4be15380-8ee3-11ea-9349-70b031882659.png">
